@@ -1,0 +1,2 @@
+bucket_name = "replace-with-a-globally-unique-name"
+aws_region  = "us-east-1"
